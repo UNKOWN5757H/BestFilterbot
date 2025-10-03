@@ -38,9 +38,9 @@ Add me as admin in your group and start filtering :)
 """
 
 AboutTxT = """
-⭕️ Official Channel : @learningbots79</b>
-⭕️ Developers : @TroJanzHEX 
-⭕️ Upgrader : @Mo_Tech_YT
+⭕️ Official Channel : @KR_PICTURE</b>
+⭕️ Developers : @Nikhil5757h 
+⭕️ Upgrader : @KR_PICTURE 
 ⭕️ Language : Python3
 ⭕️ Library : <a href='https://docs.pyrogram.org/'>Pyrogram 2.0.102</a> 
 """
